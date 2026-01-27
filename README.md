@@ -26,6 +26,8 @@ The FreeCAD Nodes Workbench documentation can be found
 ## Showcase
 ![Nodes animation](https://github.com/j8sr0230/fc_nodes/blob/main/docs/nodes_voronoi_extrusion.gif)
 ![Nodes animation](https://github.com/j8sr0230/fc_nodes/blob/main/docs/nodes_voronoi_extrusion_graph.png)
+<img width="654" height="644" alt="image" src="https://github.com/user-attachments/assets/9e1ee00d-9a0e-4685-913b-76a4a6ba2762" />
+
 
 
 ## License
