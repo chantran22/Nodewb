@@ -16,7 +16,7 @@ For FreeCAD version 0.21 or higher, it is recommended to download and install th
 older FreeCAD versions and Realthunder's Link Branch, these modules must be installed manually via PIP.
 
 ## Documentation
-This fork of Node WB for another approach 3d modeling which using Node tied with Part object - commannd to make 3d objects
+This fork of Node WB for another approach 3d modeling which using Node tied with Part objects - commands to make 3d objects
 
 The FreeCAD Nodes Workbench documentation can be found 
 [here](https://freecad-nodes.readthedocs.io/en/latest/index.html).
