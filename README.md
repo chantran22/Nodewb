@@ -21,6 +21,8 @@ This fork of Node WB for another approach 3d modeling which using Node tied with
 The FreeCAD Nodes Workbench documentation can be found 
 [here](https://freecad-nodes.readthedocs.io/en/latest/index.html).
 
+[doc](https://github.com/chantran22/Nodewb/blob/main/docs/NodeWB.pdf).
+
 ## Showcase
 ![Nodes animation](https://github.com/j8sr0230/fc_nodes/blob/main/docs/nodes_voronoi_extrusion.gif)
 ![Nodes animation](https://github.com/j8sr0230/fc_nodes/blob/main/docs/nodes_voronoi_extrusion_graph.png)
